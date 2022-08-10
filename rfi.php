@@ -1,3 +1,4 @@
+<img src="/root/flag.txt">
 echo 'hello';
 <?php
 include '/root/flag.txt';
